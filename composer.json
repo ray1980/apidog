@@ -1,0 +1,16 @@
+{
+    "name": "youwen/apidog",
+    "authors": [
+        {
+            "name": "baiyouwen",
+            "email": "youwen21@yeah.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "youwen\\apidog\\": ""
+        }
+    }
+}
